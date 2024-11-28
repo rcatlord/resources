@@ -1,6 +1,11 @@
 # resources
 Links to helpful resources on data science
 
+## Data visualisation libraries
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [Observable Plot](https://observablehq.com/plot/)
+- [D3](https://d3js.org/)
+- [Layer Cake](https://layercake.graphics/)
 
 ## Design principles
 
@@ -11,3 +16,8 @@ Links to helpful resources on data science
 
 ### Maps
 - [GeoDataViz-Toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit) (Ordnance Survey)
+
+## Coding standards
+
+- [The Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html)
+- [DSC Coding Standards](https://datasciencecampus.github.io/coding-standards)
